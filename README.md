@@ -1,9 +1,11 @@
-# LatinR 2019
+# LatinR 2019 Keynote
 
-Talk: [Scalable Automatic Machine Learning in H2O](https://latin-r.com/schedule/) ([pdf](https://github.com/ledell/LatinR-2019-keynote/blob/main/h2o_automl_latinr_sept2019.pdf))
+*"Scalable Automatic Machine Learning in H2O"* 
 
-Author: Erin LeDell
+👩‍🏫 Keynote talk at [LatinR](https://latin-r.com/schedule/) by [Erin LeDell](https://twitter.com/ledell), Ph.D. 
 
-Date: September 27, 2019
+📅 September 27, 2019 
 
-Location: Santiago, Chile
+🇨🇱 Location: Santiago, Chile
+
+📓 [Slides](https://github.com/ledell/LatinR-2019-keynote/blob/main/h2o_automl_latinr_sept2019.pdf)
